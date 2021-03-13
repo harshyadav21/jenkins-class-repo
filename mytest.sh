@@ -1,4 +1,4 @@
-echo "this sec is me"
+echo "this sec ijjknkjnkjs me"
 date
 cal
 echo "bye"
